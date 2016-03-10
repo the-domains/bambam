@@ -2,6 +2,7 @@ name: BamBam
 favicon: null
 layout_spectrum: 0.5427923535462469
 typography_spectrum: 0.41183462901972234
+title: BAMBAM
 cta:
   domain: null
   bucket: null
