@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BamBam]]></title>
+        <description><![CDATA[BamBam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 06:25:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BamBam ]]></title>
+            <description><![CDATA[<article><h1>BamBam </h1><p>BamBam</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a91f15d6bf22df2ea6e1e18389a4a69b5ecac96.png"></article>]]></description>
+            <link>undefinedbambam/index.html</link>
+            <guid isPermaLink="false">8360c973-6f9a-4e58-a3d3-bc6756c56afb</guid>
+            <pubDate>Thu, 10 Mar 2016 06:25:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
